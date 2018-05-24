@@ -36,11 +36,5 @@ Slow!! due to switch between modes CamToLCD/ CAMToFifo
 
 ## Video demo
 ### https://youtu.be/OWjTC9CULNI
-
-<<<<<<< HEAD
 ![Alt text](https://github.com/ArduCAM/NeuroShield/blob/master/image/image3.png)
-![Alt text](https://github.com/ArduCAM/NeuroShield/blob/master/image/image4.png)
-![Alt text](https://github.com/ArduCAM/NeuroShield/blob/master/image/image5.png)
 
-=======
->>>>>>> f1207c63cf7d0799654b07e73cdda0f30c8d4484
