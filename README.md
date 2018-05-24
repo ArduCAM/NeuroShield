@@ -23,7 +23,9 @@ Slow!! due to switch between modes CamToLCD/ CAMToFifo
 
 - Arduino/Genuino board & NeuroMem Shield board or NeuroMem shield board
 - ArduCam Shield V2 with camera module
+
 ![Alt text](https://github.com/ArduCAM/NeuroShield/blob/master/image/image1.png)
+
 ![Alt text](https://github.com/ArduCAM/NeuroShield/blob/master/image/image2.png)
 
 ## Library requirements
