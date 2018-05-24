@@ -34,4 +34,6 @@ Slow!! due to switch between modes CamToLCD/ CAMToFifo
 - ArduCAM at https://github.com/ArduCAM/Arduino
 - UTFT4ArduCAM_SPI at https://github.com/ArduCAM/Arduino
 
+## Video demo
+### https://youtu.be/OWjTC9CULNI
 
